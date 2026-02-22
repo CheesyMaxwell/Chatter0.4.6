@@ -1,0 +1,28 @@
+# --- CHEEZZERS PRIVATE DATA ---
+user_profile.json
+avatars/
+chat_history.txt
+temp_build.py
+autosave_draft.py
+
+# --- PYTHON SETTINGS ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# --- OS TEMPORARY FILES ---
+.DS_Store
+Thumbs.db
+.directory
+*~
+
+# --- BUILD OUTPUTS ---
+build/
+dist/
+app_pkg/
+*.deb
+*.exe
+*.spec
